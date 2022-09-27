@@ -1,0 +1,1 @@
+# microsoft-azure-AI-fundmendal-tranning
